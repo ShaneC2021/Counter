@@ -26,8 +26,10 @@
   margin-top:20px;
   border-radius: 15px;
   text-align: center;
-  height:30px;
-  background-color:gray;
+  height:40px;
+  width:80px;
+  padding-top:20px;
+  background-color:white;
 }
 
 button {
@@ -38,3 +40,4 @@ button {
   width: 75px;
   border-radius:15px;
 }
+
